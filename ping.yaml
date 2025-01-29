@@ -1,0 +1,6 @@
+---
+- name: Ping Debian Servers
+  gather_facts: no  # Skip gathering system facts
+  tasks:
+    - name: Ping target servers
+      ping:
