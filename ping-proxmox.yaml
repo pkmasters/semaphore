@@ -1,0 +1,7 @@
+---
+- name: Ping Debian Servers
+  hosts: proxmox
+  gather_facts: no  # Skip gathering system facts
+  tasks:
+    - name: Ping target servers
+      ping:
