@@ -13,14 +13,6 @@ Semaphore is a fast and flexible CI/CD tool that enables developers to automate 
 - **Deployment Pipelines**: Configure deployment pipelines for various environments.
 - **Custom Scripts**: Utilize custom scripts to fit your unique workflow needs.
 
-## Getting Started
-
-To get started with Semaphore, clone this repository to your local machine and follow the setup instructions provided in the documentation.
-
-## Configuration
-
-Configuration files for Semaphore are included in this repository. Modify them according to your project's requirements to ensure seamless integration with your codebase.
-
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or new features, please feel free to create a pull request or open an issue.
