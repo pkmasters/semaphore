@@ -1,4 +1,4 @@
-# Semaphore
+# Semaphore Repository
 
 Welcome to the Semaphore repository! This project focuses on using Semaphore to automate and manage continuous integration and continuous deployment (CI/CD) processes. Semaphore provides a powerful platform for automating software delivery pipelines, making it easier to build, test, and deploy applications efficiently.
 
