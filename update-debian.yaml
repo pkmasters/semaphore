@@ -1,5 +1,6 @@
 ---
-- hosts: debian
+- name: Update Debian Servers
+  hosts: debian
   gather_facts: yes
   become: yes
 
